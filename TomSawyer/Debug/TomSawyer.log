@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\79538\source\repos\Contest\TomSawyer\main.cpp(48,40): warning C4244: '+=': conversion from 'int64_t' to 'size_t', possible loss of data
+  TomSawyer.vcxproj -> C:\Users\79538\source\repos\Contest\Debug\TomSawyer.exe

@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\79538\source\repos\Contest\Memory\main.cpp(28,30): warning C4244: '=': conversion from 'int64_t' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty1=size_t
+          ]
+  Memory.vcxproj -> C:\Users\79538\source\repos\Contest\Debug\Memory.exe

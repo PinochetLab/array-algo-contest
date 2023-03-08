@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\79538\source\repos\Contest\Task4\main.cpp(29,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\79538\source\repos\Contest\Task4\main.cpp(43,20): warning C4018: '<': signed/unsigned mismatch
+  Task4.vcxproj -> C:\Users\79538\source\repos\Contest\Debug\Task4.exe
